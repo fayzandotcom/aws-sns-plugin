@@ -45,7 +45,7 @@ In above payload following tags are replaced by the data provided.
 
 ## History
 
-= 1.0 =
+Version: 1.0
 * Initial release.
 
 ## License
