@@ -38,7 +38,7 @@
 	<?php
 	
 			 
-			require ABSPATH . 'wp-content/plugins/'. $this->plugin_name .'/sdk/aws-sdk/aws-autoloader.php';
+			require ABSPATH . 'wp-content/plugins/'. $this->plugin_name .'/sdk/aws_v2.8.27/aws-autoloader.php';
 			
 			use Aws\Sns\SnsClient;
 			
