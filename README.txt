@@ -1,5 +1,5 @@
 === AWS SNS Plugin ===
-Contributors: fayzandotcom@hotmail.com
+Contributors: Fayzan Siddiqui - fayzandotcom@hotmail.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=fayzandotcom%40hotmail%2ecom&lc=MY&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: Amazon Web Services, Amazon Simple Notification Service, Amazon, Push Notifications, Notifications, GCM, APNS, MPNS
 Requires at least: 3.0.1
@@ -38,7 +38,7 @@ In above payload following tags are replaced by the data provided.
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/aws-sns-plugin` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/aws-sns` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Use the Settings->AWS SNS screen to configure the plugin.
 4. Provide Access Key ID, Secret Access Key, and Region of your Amazon SNS.

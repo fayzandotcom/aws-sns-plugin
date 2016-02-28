@@ -4,7 +4,7 @@ WordPress plugin to send push notifications using Amazon Simple Notification Ser
 
 ## Installation
 
-1. Upload the plugin files to the `/wp-content/plugins/aws-sns-plugin` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/aws-sns` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Use the Settings->AWS SNS screen to configure the plugin.
 4. Provide Access Key ID, Secret Access Key, and Region of your Amazon SNS.
