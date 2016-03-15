@@ -2,6 +2,12 @@
 
 WordPress plugin to send push notifications using Amazon Simple Notification Service
 
+## Platforms/Frameworks
+1. PHP
+2. WordPress
+3. AWS Simple Notification Service
+4. AWS SDK for PHP
+
 ## Download
 
 Plugin can be downloaded directly from WordPress plugin directory.
